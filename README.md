@@ -1,7 +1,7 @@
 # OTEGenerator
 OTEGenerator stands for ObjectToElementGenerator and makes it possible for the user to easy and fast generate Html elements by specified keys in a object.
  
- This is what the function kan handle as of now
+ This is what the function can handle as of now
  
 	//div,color:#000000;,function Btest(){// DoStuff},function Etest(){// DoStuff}
 	var obj = {element:["value"],style:["value"],bodyfunc:["value"],elementfunc:["value"]}
