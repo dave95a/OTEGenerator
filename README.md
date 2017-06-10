@@ -1,5 +1,5 @@
 # OTEGenerator
-OTEGenerator stands for ObjectToElementGenerator and makes it possible for the user to easy and fast generate Html elements by specified keys in a object.
+OTEGenerator stands for ObjectToElementGenerator and makes it possible for the user to easy and fast generate Html elements by specified keys and values in a object.
  
  This is what the function can handle as of now
  
